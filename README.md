@@ -26,4 +26,4 @@ For classification, we have used the following machine learning models:
   * ExtraTreesClassifier
   * AdaBoost
   
-  Our system gave us about 76% accuracy with Extra Trees. This project helped us in understanding and implementing NLP and basic Machine Leanring models.
+  This project helped us to understand concepts of NLP and basic Machine Leanring models.
