@@ -26,4 +26,4 @@ For classification, we have used the following machine learning models:
   * ExtraTreesClassifier
   * AdaBoost
   
-  This project helped us to understand concepts of NLP and basic Machine Leanring models.
+  This project helped us to understand concepts of NLP and basic Machine Learning models.
